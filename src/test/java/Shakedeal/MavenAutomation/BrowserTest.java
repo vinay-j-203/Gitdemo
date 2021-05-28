@@ -9,6 +9,8 @@ public class BrowserTest {
 	public void chrome()
 	{
 		System.out.println("chrome");
+		System.out.println("chrome2");
+		System.out.println("chrome3");
 	}
 	
 	@Test

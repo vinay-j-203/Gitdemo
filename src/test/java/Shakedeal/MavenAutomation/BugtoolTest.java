@@ -15,4 +15,10 @@ public class BugtoolTest {
 	{
 		System.out.println("Bugzilla");
 	}
+	
+	@Test
+	public void Redmine()
+	{
+		System.out.println("redmine");
+	}
 }

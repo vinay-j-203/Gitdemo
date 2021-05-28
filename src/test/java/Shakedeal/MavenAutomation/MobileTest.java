@@ -15,4 +15,10 @@ public class MobileTest {
 	{
 		System.out.println("IOS");
 	}
+	
+	@Test
+	public void WINDOWS()
+	{
+		System.out.println("WINDOWS");
+	}
 }

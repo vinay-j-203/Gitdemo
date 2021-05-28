@@ -17,5 +17,7 @@ public class BrowserTest {
 	public void firefox()
 	{
 		System.out.println("firefox");
+		System.out.println("firefox1");
+		System.out.println("firefox2");
 	}
 }
